@@ -1,0 +1,1 @@
+"""Ex06: Package for exercises related to dictionaries."""
